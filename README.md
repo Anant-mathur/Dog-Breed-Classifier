@@ -1,7 +1,7 @@
 # Dog Breed Identification
 
 * This project aims to classify dog images into different breeds using deep learning techniques. The dataset used for this project is the Dog Breed Identification competition on Kaggle. It contains a large collection of labeled dog images from various breeds.
-Dataset
+## Dataset
 
 The dataset consists of the following files:
 
